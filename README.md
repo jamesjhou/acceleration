@@ -1,3 +1,3 @@
-# hello-world
+# Acceleration
 
-Make some changes for testing.
+Speed up development with the right tools.
